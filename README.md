@@ -10,3 +10,5 @@ Let's try out a block with a style GitHub does not recognize.
 > This is a quiz.
 > - a: answer 1
 > - b: answer 2
+>
+> answer: a
