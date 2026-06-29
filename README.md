@@ -14,3 +14,11 @@ Let's try out a block with a style GitHub does not recognize.
 > <!--notebook
 >   answer: a
 > -->
+
+## Another test
+
+This is some text before a code block.
+
+```python
+print(f"This file is {__name__}.")
+```
