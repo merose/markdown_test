@@ -11,4 +11,4 @@ Let's try out a block with a style GitHub does not recognize.
 > - a: answer 1
 > - b: answer 2
 >
-> answer: a
+> [answer]: a
