@@ -22,6 +22,7 @@ This is some text before a code block.
 ```python
 print(f"This file is {__name__}.")
 ```
-```python type=solution
-This is the solution.
-```
+> [!SOLUTION]
+> ```python type=solution
+> This is the solution.
+> ```
