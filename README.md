@@ -22,7 +22,7 @@ This is some text before a code block.
 ```python
 print(f"This file is {__name__}.")
 ```
-> [!SOLUTION]
+> :solution
 > ```python type=solution
 > This is the solution.
 > ```
